@@ -1,0 +1,9 @@
+{
+  "token": {
+    "accessSecret": "my access secret key",
+    "relationSecret": "my relation secret key"
+  },
+  "mongodb": {
+    "connection": "mongodb://localhost/test"
+  }
+}
